@@ -1,0 +1,15 @@
+{
+  "name": "monorepo-demo1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://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@github.com/chenyin151/monorepo-demo1.git",
+  "author": "chenyin151 <chenyin151@163.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": {
+    "packages": [
+      "example/module-a",
+      "example/module-b"
+    ]
+  }
+}
