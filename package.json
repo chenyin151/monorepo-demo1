@@ -10,6 +10,9 @@
     "packages": [
       "example/module-a",
       "example/module-b"
+    ],
+    "nohoist": [
+      "**/lodash"
     ]
   }
 }
