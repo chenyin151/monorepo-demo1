@@ -14,5 +14,9 @@
     "nohoist": [
       "**/lodash"
     ]
+  },
+  "scripts": {
+    "start":"module-b",
+    "start": "mdb"
   }
 }
