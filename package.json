@@ -16,7 +16,11 @@
     ]
   },
   "scripts": {
-    "start":"module-b",
-    "start": "mdb"
+    "start": "mdb",
+    "lerna": "lerna"
+  },
+  "devDependencies": {
+    "lern": "^1.0.0",
+    "lerna": "^5.6.2"
   }
 }
