@@ -1,10 +1,10 @@
 {
-    "name": "@monorepo-test/module-a",
+    "name": "@monorepo-test1/module-a",
     "version": "1.2.0",
     "main": "index.js",
     "license": "MIT",
     "dependencies": {
-        "@monorepo-test/module-b": "^1.2.0",
+        "@monorepo-test1/module-b": "^1.2.0",
         "lodash": "^4.17.21",
         "react": "^18.2.0"
     },

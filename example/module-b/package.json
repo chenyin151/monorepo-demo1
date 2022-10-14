@@ -1,5 +1,5 @@
 {
-    "name": "@monorepo-test/module-b",
+    "name": "@monorepo-test1/module-b",
     "version": "1.2.0",
     "main": "index.js",
     "license": "MIT",
